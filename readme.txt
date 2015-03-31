@@ -16,23 +16,24 @@ Provides a Premium Membership Mode and Bitcoin/Altcoin Payment Gateway for bbPre
 
 == Description ==
 
-See [Screenshots](https://gourl.io/bbpress-premium-membership.html#screenshot)
+This simple plugin will add Premium Membership Mode to bbPress Forum. You can mark some topics on your forum as Premium and can easily monetise your forum with Bitcoins. Pay to read bbPress Premium Topics and Replies, Pay to add new replies to the topic, Pay to create new topics on bbPress. 
 
 bbPress Premium Membership Features -
 
-* 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/bbPress-Premium-Membership-Bitcoins)
-* Provides a Premium Membership Mode and Payment Gateway for [bbPress 2.5 or higher](https://wordpress.org/plugins/bbpress/)
-* Accept Bitcoin, Litecoin, Speedcoin, Dogecoin, Paycoin, Darkcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Vericoin payments in bbPress
-* No Monthly Fee, Transaction Fee from 0%
-* Pay to read bbPress Premium Topics and Replies
-* Pay to add new replies / create new Topics
-* Direct Integration on your website, no external payment pages opens (as other payment gateways offer)
+* 100% Free Open Source Plugin on [Github.com](https://github.com/cryptoapi/bbPress-Premium-Membership-Bitcoins). 
+* Provides a Premium Membership Mode and Payment Gateway for [bbPress 2.5 or higher](https://wordpress.org/plugins/bbpress/). 
+* Accept Bitcoin, Litecoin, Speedcoin, Dogecoin, Paycoin, Dash/Darkcoin, Reddcoin, Potcoin, Feathercoin, Vertcoin, Vericoin payments in bbPress. 
+* No Monthly Fee, Transaction Fee from 0%. 
+* Pay to read bbPress Premium Topics and Replies. 
+* Pay to add new replies / create new Topics. 
+* Direct Integration on your website, no external payment pages opens (as other payment gateways offer). 
 * You will see the bitcoin/altcoin payment statistics in one common table on your website. 
 * No Chargebacks, Global, Secure. All in automatic mode.
 * [Free Tech Support](https://gourl.io/view/contact/Contact_Us.html) for You
 
 Please note you need to install also - [GoUrl Wordpress Plugin with Payment Gateway](https://wordpress.org/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/)
 
+See [Screenshots](https://gourl.io/bbpress-premium-membership.html#screenshot)
 
 Plugin Page: [https://gourl.io/bbpress-premium-membership.html](https://gourl.io/bbpress-premium-membership.html)
 
