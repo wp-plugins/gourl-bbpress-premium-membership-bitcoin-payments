@@ -16,7 +16,7 @@ Provides a Premium Membership Mode and Bitcoin/Altcoin Payment Gateway for bbPre
 
 == Description ==
 
-This simple plugin will add Premium Membership Mode to bbPress Forum. You can mark some topics on your forum as Premium and can easily monetise your forum with Bitcoins. Pay to read bbPress Premium Topics and Replies, Pay to add new replies to the topic, Pay to create new topics on bbPress. 
+It will add Premium Membership Mode/Subscriptions to your bbPress Forum. You can mark some topics on your forum as Premium and can easily monetise your forum with Bitcoins/Altcoins (internet currency). Pay to read bbPress Premium Topics and Replies, Pay to add new replies to the topic, Pay to create new topics on bbPress.
 
 bbPress Premium Membership Features -
 
@@ -86,5 +86,3 @@ In the search field type "GoUrl bbPress" and click Search Plugins. Once you've f
 
 = 1.0.0 =
 Initial Release
- 
- 
