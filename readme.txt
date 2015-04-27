@@ -16,7 +16,8 @@ It will add Premium Membership and Bitcoin/Altcoin Gateway to bbPress Forum & Cu
 == Description ==
 
 It will add Premium Membership and Bitcoin/Altcoin Gateway to your bbPress Forum & Customer Support System. You can mark some topics on your forum/customer support system as Premium and can easily monetise it with Bitcoins/altcoins. Pay to read bbPress Premium Topics and Replies, Pay to add new replies to the topic, Pay to create new topics on bbPress. It integrated with [GoUrl Pay-Per-Membership](https://wordpress.org/plugins/gourl-bitcoin-payment-gateway-paid-downloads-membership/). 
-You can add premium user support to your web site using bbPress. Any user can place questions (create new topic in bbPress), and only paid/premium users will see your answers.
+
+Also you can add premium user support to your web site using bbPress. Any user can place questions (create new topic in bbPress), and only paid/premium users will see your answers.
 
 See [Screenshots](https://gourl.io/bbpress-premium-membership.html#screenshot)
 
@@ -93,4 +94,5 @@ Spanish payment box localisation
 
 = 1.0.0 =
 Initial Release
+   
  
